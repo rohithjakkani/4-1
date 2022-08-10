@@ -1,0 +1,90 @@
+# #program to print difference between dates
+# # (YYYY-MM-DD)
+
+# date1 = as.Date("2022-08-03")
+# date2 = as.Date("2023-08-21")
+
+# difference = difftime(date2,date1,units = "days")
+# print(difference)
+
+
+
+
+
+# strsplit(c("vineeth kumar thummanapally")," ")
+
+# grep("ine","business")
+
+# a = "hello "
+# b = "vineeth"
+
+# paste(a,b)
+
+# substr("vineeth thummanapally",1,10)
+
+# rep("vineeth", 3)
+
+# grep("vineeth", c("hey","hello","vineeth","you","there"), fixed = TRUE)
+
+# toupper("vineeth")
+# tolower("VINeeth")
+
+
+
+
+
+
+#Functions for handling missing values
+
+# A = c(10,20,30,NA,40,50)
+
+# is.na(A)
+
+# B = c(na.exclude(A))
+
+# print(B)
+
+# na.pass(A)
+
+# na.fail(A)
+
+
+
+
+
+# Barvec = c(4,7,8)
+# barplot(Barvec)
+
+
+
+
+
+# placeholder = 1:5
+
+# names(placeholder) = c("a","b","c","d","e")
+
+# placeholder[4]
+
+
+
+
+
+# vec = c(4,7,8)
+# names(vec) = c("a","b","c")
+
+# barplot(vec)
+
+
+
+
+# x = seq(1,25,0.1)
+# y = sin(x)
+
+# plot(x,y)
+
+
+
+
+
+# casefold("vineEETH KumaR ThuMMANApally", upper = TRUE)
+# casefold("vineEETH KumaR ThuMMANApally", upper = FALSE)
